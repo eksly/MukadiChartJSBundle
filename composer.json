@@ -1,6 +1,6 @@
 {
-    "name": "mukadi/chartjs-bundle",
-    "description": "build awesome charts directly from your ORM Entities",
+    "name": "eksly/chartjs-bundle",
+    "description": "build awesome charts directly from your ORM Entities, forked from mukadi/chartjs-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
