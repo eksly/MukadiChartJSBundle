@@ -12,7 +12,7 @@ high quality chart mapped directly to your data model.
 
 Install the bundle via composer by running the following command:
 
- `php composer.phar require mukadi/chartjs-bundle`
+ `php composer.phar require eksly/chartjs-bundle`
 
 And run `php bin/console assets:install` for installing assets in the public web directory
 
